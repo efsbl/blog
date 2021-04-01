@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bases de datos on El blog de quienes dan soporte</title><link>https://sysarmy.com/blog/tags/bases-de-datos/</link><description>Recent content in bases de datos on El blog de quienes dan soporte</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sysarmy.com/blog/tags/bases-de-datos/index.xml" rel="self" type="application/rss+xml"/><item><title>SQLite no es una base de datos de juguete</title><link>https://sysarmy.com/blog/posts/sqlite-no-es-una-base-de-datos-de-juguete/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>https://sysarmy.com/blog/posts/sqlite-no-es-una-base-de-datos-de-juguete/</guid><description>&lt;p>Ya sea que trabajes en desarrollo, analisis de datos, control de calidad, DevOps o producto, &lt;a href="https://www.sqlite.org/" target="_blank">SQLite&lt;/a>
+es una herramienta perfecta para vos. Aquí contamos por que.&lt;/p>
+&lt;h2 id="algunos-hechos-bien-conocidos-para-comenzar">Algunos hechos bien conocidos para comenzar:&lt;/h2>
+&lt;ul>
+&lt;li>SQLite es el DBMS más común del mundo, incluido en todos los sistemas operativos populares.&lt;/li>
+&lt;li>SQLite no tiene servidor.&lt;/li>
+&lt;li>Para quienes desarrollan, SQLite está integrado directamente en la aplicación.&lt;/li>
+&lt;li>Para todos los demás, existe una conveniente consola de base de datos (REPL), que se proporciona como un solo archivo (sqlite3.exe en Windows, sqlite3 en Linux / macOS).&lt;/li>
+&lt;/ul></description></item></channel></rss>
